@@ -1,4 +1,4 @@
 # Simple JS clock app
 
-this app made for Techsin youtube toturial.
-we hope you enjoy it.
+This app made for Techsin youtube toturial.
+We hope you enjoy it.
